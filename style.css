@@ -25,6 +25,7 @@ body {
    font-weight: bold ;
    font-size: 150px;
    margin: 20px;
+   text-align: center;
 }
 
  h2 {
@@ -32,6 +33,7 @@ body {
    text-transform: upper-case;
    font-size: 75px;
    margin: 100px;
+   text-align: center;
 }
 
 p {
