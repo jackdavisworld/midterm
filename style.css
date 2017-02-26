@@ -9,6 +9,8 @@ img {
 
 ul {
   padding: 10px;
+    background: black;
+  color: white;
 }
 
 li {
